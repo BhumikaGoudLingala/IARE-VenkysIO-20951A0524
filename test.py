@@ -1,1 +1,6 @@
 print("Hello World")
+x=int(input("enter no of toys:"))
+y=int(input("enter cost of total toys:"))
+z=int(input("Money left:"))
+print("Cost of each toy:",y//z)
+print("Total amount:",y+z)
